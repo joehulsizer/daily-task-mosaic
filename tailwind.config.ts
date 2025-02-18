@@ -19,6 +19,9 @@ export default {
       },
     },
     extend: {
+      scale: {
+        '102': '1.02',
+      },
       fontFamily: {
         sans: ["Inter var", "sans-serif"],
       },
